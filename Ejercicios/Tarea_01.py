@@ -1,7 +1,7 @@
 #Tarea 111111:
 
-variable1 = "letrasrrrrr"
-variable2 = 7.3
+variable1 = "letraseeeeeee"
+variable2 = 8.9
 
 
 print(type(variable1))
