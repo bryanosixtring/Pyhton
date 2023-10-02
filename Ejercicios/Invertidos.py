@@ -8,3 +8,4 @@ sin usar funciones propias del lenguaje que lo hagan de forma automática.
 
 frase=input("Escribe la frase que deseas invertir")
 
+print(frase)
