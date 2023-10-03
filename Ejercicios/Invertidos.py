@@ -6,6 +6,14 @@ sin usar funciones propias del lenguaje que lo hagan de forma automática.
 
 """
 
-frase=input("Escribe la frase que deseas invertir")
+str = input('Ingresa la frase')
 
-print(frase)
+fraselong = len(str)
+
+inversa=[]
+
+while fraselong > 0:
+    inversa += str [fraselong-1]
+    fraselong = fraselong - 1
+
+print('La frase inversa es: ',inversa) 
