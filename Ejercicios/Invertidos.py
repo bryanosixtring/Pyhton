@@ -6,14 +6,14 @@ sin usar funciones propias del lenguaje que lo hagan de forma automática.
 
 """
 
-str = input('Ingresa la frase')
+frase = input('Ingresa la frase')
 
-fraselong = len(str)
+fraselong = len(frase)
 
 inversa=[]
 
 while fraselong > 0:
-    inversa += str [fraselong-1]
+    inversa += frase [fraselong-1]
     fraselong = fraselong - 1
 
 texto = ''.join(inversa)
