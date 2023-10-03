@@ -16,4 +16,5 @@ while fraselong > 0:
     inversa += str [fraselong-1]
     fraselong = fraselong - 1
 
-print('La frase inversa es: ',inversa) 
+texto = ''.join(inversa)
+print('La frase inversa es: ',texto) 
