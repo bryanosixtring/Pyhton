@@ -1,0 +1,15 @@
+{
+"name": "John",
+"surname": "Senado",
+"Age": 38,
+"Languages": [
+"Python",
+"C#",
+"Javascript"
+],
+"Hobbies": [
+"Videojuegos",
+"Leer",
+"Peliculas"
+]
+}
