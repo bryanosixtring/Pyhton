@@ -45,3 +45,25 @@ json_file.close()
 with open("files/my_file.json") as my_other_file:
     for line in my_other_file.readlines():
         print(line)
+
+
+json_dict = json.load(open("files/my_file.json"))
+print(json_dict)
+print(type(json_dict))
+print(json_dict["name"])
+print(json_dict["Languages"])
+
+#csv files
+
+csv_file = open("files/my_file.csv","w+")
+
+csv_writer = csv.writer(csv_file)
+csv_writer.writerow(["name","surname","age","language"])
+csv_writer.writerow(["John","Sedano",38,"Python"])
+csv_writer.writerow(["Jairo","Segura",40])
+
+csv_file.close()
+
+with open("files/my_file.csv") as my_other_file:
+    for line in my_other_file.readlines():
+        print(line)

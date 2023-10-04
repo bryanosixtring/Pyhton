@@ -1,0 +1,5 @@
+Nombre: producto1, Id: 001, Cantidad: 3525, Precio: 4843.43
+Nombre: producto2, Id: 002, Cantidad: 20, Precio: 53
+Nombre: producto3, Id: 003, Cantidad: 80, Precio: 100.99
+Nombre: producto4, Id: 004, Cantidad: 3, Precio: 153.3
+Nombre: producto5, Id: 005, Cantidad: 100, Precio: 633
