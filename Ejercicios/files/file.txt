@@ -1,0 +1,3 @@
+Mi apellido es Senado
+Estoy el curso Python
+Me gusta jugar videojuegos
