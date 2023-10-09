@@ -46,7 +46,7 @@ with open("files/my_file.json") as my_other_file:
     for line in my_other_file.readlines():
         print(line)
 
-
+#obtener datos de un archivo json
 json_dict = json.load(open("files/my_file.json"))
 print(json_dict)
 print(type(json_dict))
