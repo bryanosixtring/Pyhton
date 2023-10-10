@@ -1,0 +1,6 @@
+Nombre,Correo,Telefono,Resultado
+Juan Perez,jperez@example.com.23352532
+Maria López,maria@correo.com,32323242
+Carlos111,carlos@example.com,234234234
+Ana Snn,ana_snn.com,3333-333
+Andrés Casas,acasas@example.com.co,2323242424
